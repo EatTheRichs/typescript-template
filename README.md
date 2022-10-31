@@ -32,4 +32,4 @@ See the `scripts` section in the [`package.json`](./package.json) file.
 
 ## License
 
-[MIT](./LICENSE.md) © Paul Razvan Berg
+[MIT](./LICENSE.md) © George R.B.
